@@ -5,6 +5,5 @@ def start_game(player1, player2)
 end
 
 def play_game(player2, player1)
-  "#{player1} is better than #{player2}"
-  puts "test"
+  "#{player2} is better than #{player1}"
 end
